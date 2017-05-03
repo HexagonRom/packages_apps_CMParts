@@ -27,7 +27,7 @@ import android.provider.Settings;
 import android.support.v7.preference.CheckBoxPreference;
 import android.support.v7.preference.Preference;
 
-import com.android.internal.util.aicp.AicpUtils;
+import com.android.internal.util.hex.AicpUtils;
 import com.android.internal.util.cm.PowerMenuConstants;
 
 import org.cyanogenmod.cmparts.R;
