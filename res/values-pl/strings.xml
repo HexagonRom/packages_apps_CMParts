@@ -318,7 +318,6 @@
   <string name="status_bar_notif_count_summary">Wyświetla liczbę oczekujących powiadomień</string>
   <string name="status_bar_system_icons_title">Ikony systemowe</string>
   <string name="status_bar_system_icons_summary">Wybierz, które ikony będą wyświetlane na pasku stanu</string>
->>>>>>> 1a7c668... Automatic translation import
   <!-- Status bar - Clock -->
   <string name="status_bar_clock_position_title">Pozycja zegara</string>
   <string name="status_bar_am_pm_title">Znacznik AM/PM</string>
