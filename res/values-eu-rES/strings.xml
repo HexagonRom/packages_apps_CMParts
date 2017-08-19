@@ -177,8 +177,8 @@
   <string name="volbtn_music_controls_title">Kontrolatu erreprodukzioa</string>
   <string name="volbtn_cursor_control_title">Teklatu bidezko kurtsorearen kontrola</string>
   <string name="volbtn_cursor_control_off">Desgaituta</string>
-  <string name="volbtn_cursor_control_on">Bolumena igo eta jaisteko botoiek kurtsorea ezkerrera eta eskumara mugitzen dute</string>
-  <string name="volbtn_cursor_control_on_reverse">Bolumena igo eta jaisteko botoiek kurtsorea eskumara eta ezkerrera mugitzen dute</string>
+  <string name="volbtn_cursor_control_on">Bolumena igo eta jaisteko botoiek kurtsorea ezkerrera eta eskuinera mugitzen dute</string>
+  <string name="volbtn_cursor_control_on_reverse">Bolumena igo eta jaisteko botoiek kurtsorea eskuinera eta ezkerrera mugitzen dute</string>
   <string name="power_end_call_title">Amaitu deia</string>
   <string name="power_end_call_summary">Amaitu uneko deia pizte botoia sakatuta</string>
   <string name="swap_volume_buttons_title">Berrorientatu</string>
@@ -376,9 +376,9 @@
   <string name="status_bar_quick_qs_pulldown_summary_right">Eskuinean</string>
   <string name="status_bar_quick_qs_pulldown_off">Ez</string>
   <string name="status_bar_quick_qs_pulldown_left">ezkerreko</string>
-  <string name="status_bar_quick_qs_pulldown_right">eskumako</string>
-  <string name="status_bar_toggle_brightness">Distiraren kontrola</string>
-  <string name="status_bar_toggle_brightness_summary">Doitu distira egoera-barran zehar irristatuz</string>
+  <string name="status_bar_quick_qs_pulldown_right">Eskuina</string>
+  <string name="status_bar_double_tap_to_sleep_title">Birritan sakatu lokartzeko</string>
+  <string name="status_bar_double_tap_to_sleep_summary">Birritan sakatu egoera-barran pantaila itzaltzeko</string>
   <!-- Status bar - icons -->
   <string name="status_bar_icons_title">Egoera-barrako ikonoak</string>
   <string name="status_bar_notif_count_title">Erakutsi jakinarazpen kopurua</string>
@@ -501,4 +501,36 @@ Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioa
   <string name="expanded_desktop_nothing_to_show_text">Itzali zure mahaigain hedatua aplikazioz aplikazio pertsonalizatzeko</string>
   <!-- Sounds: Charging sounds -->
   <!-- Gestures: Touchscreen gestures -->
+  <string name="touchscreen_gesture_settings_title">Ukitze-pantailaren keinuak</string>
+  <string name="touchscreen_gesture_settings_summary">Egin ukimen-pantailako keinuak ekintza azkarretarako</string>
+  <string name="touchscreen_gestures_haptic_feedback_title">Erantzun haptikoa</string>
+  <string name="touchscreen_gestures_haptic_feedback_summary">Bibratu ukimen-pantailaren keinu bat antzematean</string>
+  <string name="touchscreen_gesture_two_finger_down_swipe_title">Pasatu bi hatz behera</string>
+  <string name="touchscreen_gesture_one_finger_up_swipe_title">Pasatu hatz bat gora</string>
+  <string name="touchscreen_gesture_one_finger_down_swipe_title">Pasatu hatz bat behera</string>
+  <string name="touchscreen_gesture_one_finger_left_swipe_title">Pasatu hatz bat ezkerrera</string>
+  <string name="touchscreen_gesture_one_finger_right_swipe_title">Pasatu hatz bat eskuinera</string>
+  <string name="touchscreen_gesture_up_arrow_title">Marraztu \"Λ\"</string>
+  <string name="touchscreen_gesture_down_arrow_title">Marraztu \"V\"</string>
+  <string name="touchscreen_gesture_left_arrow_title">Marraztu \"&lt;\"</string>
+  <string name="touchscreen_gesture_right_arrow_title">Marraztu \"&gt;\"</string>
+  <string name="touchscreen_gesture_letter_c_title">Marraztu \"C\" letra</string>
+  <string name="touchscreen_gesture_letter_e_title">Marraztu \"e\" letra</string>
+  <string name="touchscreen_gesture_letter_o_title">Marraztu \"O\" letra</string>
+  <string name="touchscreen_gesture_letter_m_title">Marraztu \"M\" letra</string>
+  <string name="touchscreen_gesture_letter_s_title">Marraztu \"S\" letra</string>
+  <string name="touchscreen_gesture_letter_v_title">Marraztu \"V\" letra</string>
+  <string name="touchscreen_gesture_letter_w_title">Marraztu \"W\" letra</string>
+  <string name="touchscreen_gesture_letter_z_title">Marraztu \"Z\" letra</string>
+  <string name="touchscreen_gesture_action_dialog_title">Keinuaren ekintza</string>
+  <string name="touchscreen_gesture_action_do_nothing">Ez egin ezer</string>
+  <string name="touchscreen_gesture_action_flashlight">Piztu/itzali linterna</string>
+  <string name="touchscreen_gesture_action_camera">Ireki kamera</string>
+  <string name="touchscreen_gesture_action_browser">Ireki nabigatzailea</string>
+  <string name="touchscreen_gesture_action_dialer">Ireki markatzailea</string>
+  <string name="touchscreen_gesture_action_email">Ikusi zure e-postak</string>
+  <string name="touchscreen_gesture_action_messages">Ikusi zure mezuak</string>
+  <string name="touchscreen_gesture_action_play_pause_music">Abiatu/pausatu musikaren erreprodukzioa</string>
+  <string name="touchscreen_gesture_action_previous_track">Joan aurreko musika pistara</string>
+  <string name="touchscreen_gesture_action_next_track">Joan hurrengo musika pistara</string>
 </resources>
