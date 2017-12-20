@@ -18,4 +18,5 @@
     <!-- Color engine -->
     <color name="pixel_primary_color">#242424</color>
     <color name="pixel_secondary_color">#3a3a3a</color>
+    <color name="theme_primary">#03A9F4</color>
 </resources>
